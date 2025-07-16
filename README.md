@@ -1,19 +1,26 @@
-# main_project
+# MyTravelMate 🌍
 
-A new Flutter project.
+MyTravelMate is a smart travel assistant mobile app built with **Flutter** and powered by **Firebase Realtime Database**. It helps users plan trips, get AI-based travel suggestions, chat with a virtual assistant, and access emergency support while traveling in Kerala.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- User authentication (Firebase)
+- Trip management (add, view, delete)
+- AI chatbot using Gemini API
+- Emergency support button
+- Admin panel for managing trips and users
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Firebase (Auth + Realtime Database)
+- Gemini AI API (Google)
+- BLoC / Riverpod (State Management)
+- SQLite (Offline support)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# MyTravelMate
-# MyTravelMate
-# Flutter_Side_Projects
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/mytravelmate.git
+   cd mytravelmate
