@@ -1,0 +1,2 @@
+D:/flutter/Ente_Yatra-master/android/app/.cxx/Debug/1h2i605j/x86/CMakeFiles/edit_cache.dir
+D:/flutter/Ente_Yatra-master/android/app/.cxx/Debug/1h2i605j/x86/CMakeFiles/rebuild_cache.dir
